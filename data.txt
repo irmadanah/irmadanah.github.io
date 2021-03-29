@@ -1,0 +1,5 @@
+DTS E22 Photografi
+
+warna utama : #DAF7A6, #A2B480
+warna pendamping : #fff, 
+font family : Franklin Gothic Demi
